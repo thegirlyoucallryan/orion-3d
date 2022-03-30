@@ -46,23 +46,24 @@ p{
 }
 
 button{
-    color: black;
+    color: navy;
     padding: 12px 26px;
-    background: #F2EBDC;
+    background: #F29849;
     margin: 30px 65px;
     margin-right: 20px;
     font-size: 21px;
     border: none;
     border-radius: 5px;
-    font-family: inter;
+    font-family: Abril Fatface;
     
 
 }
 button:hover{
     color: teal;
-    background: white;
+    background:#F2EBDC;
     transition: all 1s;
   border-radius: 0;
+  
 }
 
 .logo{
